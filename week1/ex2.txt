@@ -1,0 +1,500 @@
+   13  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   14  python3 bin_nrrd_to_img.py 
+   15  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   16  python3 bin_nrrd_to_img.py 
+   17  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   18  python3 bin_nrrd_to_img.py 
+   19  python3 bin_nrrd_to_img.py 
+   20  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   21  python3 bin_nrrd_to_img.py 
+   22  scp -r /home/evgenii/winter_track/common/labels emaksimychev@10.90.136.163:~/winter_track/common/
+   23  scp -r /home/evgenii/winter_track/common/images emaksimychev@10.90.136.163:~/winter_track/common/
+   24  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   25  python3 bin_nrrd_to_img.py 
+   26  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   27  python3 bin_nrrd_to_img.py 
+   28  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   29  python3 bin_nrrd_to_img.py 
+   30  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   31  python3 bin_nrrd_to_img.py 
+   32  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   33  python3 bin_nrrd_to_img.py 
+   34  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   35  python3 bin_nrrd_to_img.py 
+   36  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   37  python3 bin_nrrd_to_img.py 
+   38  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   39  python3 bin_nrrd_to_img.py 
+   40  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   41  python3 bin_nrrd_to_img.py 
+   42  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   43  python3 bin_nrrd_to_img.py 
+   44  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   45  python3 bin_nrrd_to_img.py 
+   46  scp emaksimychev@10.90.136.163:~/winter_track/common/weights_bin.h5 /home/evgenii/winter_track
+   47  cd winter_track/common/
+   48  python3 predict_bin.py 
+   49  pip3 install keras
+   50  python3 predict_bin.py 
+   51  python3 predict_bin.py 
+   52  python3 predict_bin.py 
+   53  python3 predict_bin.py 
+   54  python predict_bin.py 
+   55  pip install keras
+   56  python predict_bin.py 
+   57  pip inastall tensorflow
+   58  pip inastall tensorflow
+   59  pip install tensorflow
+   60  python predict_bin.py 
+   61  python predict_bin.py 
+   62  python3 predict_bin.py 
+   63  ssh emaksimychev@10.90.136.163
+   64  ssh emaksimychev@10.90.136.163
+   65  scp emaksimychev@10.90.136.163:~/winter_track/common/weights_bin.h5 /home/evgenii/winter_track
+   66  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   67  cd winter_track
+   68  python3 bin_nrrd_to_img.py 
+   69  ssh emaksimychev@10.90.136.163
+   70  cd winter_track
+   71  cd common/
+   72  python predict_bin.py 
+   73  python3 predict_bin.py 
+   74  cd winter_track
+   75  pyhton3 bin_nrrd_to_img.py 
+   76  python3 bin_nrrd_to_img.py 
+   77  cd common/
+   78  python predict_bin.py 
+   79  python3 predict_bin.py 
+   80  pyhton3 bin_nrrd_to_img.py 
+   81  python3 bin_nrrd_to_img.py 
+   82  ssh emaksimychev@10.90.136.163
+   83  cd winter_track/common/
+   84  python3 predict_bin.py 
+   85  python3 bin_nrrd_to_img.py 
+   86  python3 predict_bin.py 
+   87  python3 bin_nrrd_to_img.py 
+   88  cd -
+   89  cd winter_track
+   90  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   91  python3 bin_nrrd_to_img.py 
+   92  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   93  python3 bin_nrrd_to_img.py 
+   94  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   95  python3 bin_nrrd_to_img.py 
+   96  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   97  python3 bin_nrrd_to_img.py 
+   98  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+   99  python3 bin_nrrd_to_img.py 
+  100  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  101  python3 bin_nrrd_to_img.py 
+  102  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  103  python3 bin_nrrd_to_img.py 
+  104  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  105  python3 bin_nrrd_to_img.py 
+  106  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  107  python3 bin_nrrd_to_img.py 
+  108  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  109  python3 bin_nrrd_to_img.py 
+  110  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  111  python3 bin_nrrd_to_img.py 
+  112  python3 bin_nrrd_to_img.py 
+  113  python3 bin_nrrd_to_img.py 
+  114  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  115  python3 bin_nrrd_to_img.py 
+  116  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  117  python3 bin_nrrd_to_img.py 
+  118  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  119  python3 bin_nrrd_to_img.py 
+  120  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  121  python3 bin_nrrd_to_img.py 
+  122  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  123  python3 bin_nrrd_to_img.py 
+  124  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  125  python3 bin_nrrd_to_img.py 
+  126  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  127  python3 bin_nrrd_to_img.py 
+  128  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  129  python3 bin_nrrd_to_img.py 
+  130  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  131  python3 bin_nrrd_to_img.py 
+  132  python3 bin_nrrd_to_img.py 
+  133  python3 bin_nrrd_to_img.py 
+  134  python3 bin_nrrd_to_img.py 
+  135  python3 bin_nrrd_to_img.py 
+  136  python3 bin_nrrd_to_img.py 
+  137  python3 bin_nrrd_to_img.py 
+  138  python3 bin_nrrd_to_img.py 
+  139  python3 bin_nrrd_to_img.py 
+  140  python3 bin_nrrd_to_img.py 
+  141  python3 bin_nrrd_to_img.py 
+  142  python3 bin_nrrd_to_img.py 
+  143  python3 bin_nrrd_to_img.py 
+  144  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  145  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  146  python3 bin_nrrd_to_img.py 
+  147  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  148  python3 bin_nrrd_to_img.py 
+  149  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  150  python3 bin_nrrd_to_img.py 
+  151  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  152  python3 bin_nrrd_to_img.py 
+  153  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  154  python3 bin_nrrd_to_img.py 
+  155  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  156  python3 bin_nrrd_to_img.py 
+  157  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  158  python3 bin_nrrd_to_img.py 
+  159  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  160  python3 bin_nrrd_to_img.py 
+  161  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  162  python3 bin_nrrd_to_img.py 
+  163  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  164  python3 bin_nrrd_to_img.py 
+  165  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  166  python3 bin_nrrd_to_img.py 
+  167  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  168  python3 bin_nrrd_to_img.py 
+  169  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  170  python3 bin_nrrd_to_img.py 
+  171  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  172  python3 bin_nrrd_to_img.py 
+  173  ssh emaksimychev@10.90.136.163
+  174  ssh emaksimychev@10.90.136.163
+  175  cd catkin_ws/src/image_writer/scripts/
+  176  python3 bgr_to_rgb.py 
+  177  cd winter_track
+  178  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  179  python3 bin_nrrd_to_img.py 
+  180  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  181  python3 bin_nrrd_to_img.py 
+  182  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  183  python3 bin_nrrd_to_img.py 
+  184  scp -r /home/evgenii/winter_track/common/images emaksimychev@10.90.136.163:~/winter_track/common/
+  185  roscore
+  186  cd catkin_ws/
+  187  catkin_make
+  188  catkin build 
+  189  cd src/
+  190  ls
+  191  mkdir bin_segmentation
+  192  catkin_create_pkg bin_segmentation std_msgs rospy roscpp
+  193  cd bin_segmentation/
+  194  ls
+  195  catkin build 
+  196  cd ~/Documents/Terrain_classification/dataset
+  197  rosbag play hills.bag 
+  198  rosbag play -s 400 campus.bag 
+  199  rosrun image_transport republish compressed in:=pylon_camera_node_aca1300/image_raw raw out:=img
+  200  kill 20377
+  201  rosnode list
+  202  rostopic list
+  203  cd ~/catkin_ws/src/bin_segmentation/scripts/
+  204  python3 predict_bin.py 
+  205  python predict_bin.py 
+  206  python predict_bin.py 
+  207  python predict_bin.py 
+  208  python predict_bin.py 
+  209  python predict_bin.py 
+  210  python predict_bin.py 
+  211  python predict_bin.py 
+  212  python predict_bin.py 
+  213  cd winter_trackcom
+  214  cd winter_track/common/
+  215  python3 bgr_to_rgb.py 
+  216  python3 bgr_to_rgb.py 
+  217  python3 bgr_to_rgb.py 
+  218  python3 bgr_to_rgb.py 
+  219  python3 bgr_to_rgb.py 
+  220  python3 bgr_to_rgb.py 
+  221  python3 bgr_to_rgb.py 
+  222  python3 bgr_to_rgb.py 
+  223  python3 bgr_to_rgb.py 
+  224  python3 bgr_to_rgb.py 
+  225  python3 bgr_to_rgb.py 
+  226  python3 bgr_to_rgb.py 
+  227  python3 bgr_to_rgb.py 
+  228  python3 bgr_to_rgb.py 
+  229  python3 bgr_to_rgb.py 
+  230  python3 bgr_to_rgb.py 
+  231  cd-
+  232  cd -
+  233  cd winter_track
+  234  scp emaksimychev@10.90.136.163:~/winter_track/common/test.nrrd /home/evgenii/winter_track
+  235  python3 bin_nrrd_to_img.py 
+  236  python3 bin_nrrd_to_img.py 
+  237  python3 bin_nrrd_to_img.py 
+  238  python3 bin_nrrd_to_img.py 
+  239  python3 bin_nrrd_to_img.py 
+  240  python3 bin_nrrd_to_img.py 
+  241  python3 bin_nrrd_to_img.py 
+  242  python3 bin_nrrd_to_img.py 
+  243  python3 bin_nrrd_to_img.py 
+  244  python3 bin_nrrd_to_img.py 
+  245  python3 bin_nrrd_to_img.py 
+  246  python3 bin_nrrd_to_img.py 
+  247  python3 bin_nrrd_to_img.py 
+  248  python3 bin_nrrd_to_img.py 
+  249  python3 bin_nrrd_to_img.py 
+  250  python3 bin_nrrd_to_img.py 
+  251  python3 bin_nrrd_to_img.py 
+  252  python3 bin_nrrd_to_img.py 
+  253  python3 bin_nrrd_to_img.py 
+  254  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  255  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  256  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  257  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  258  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  259  cd common/
+  260  python3 predict_bin.py 
+  261  cd common/
+  262  python3 predict_bin.py 
+  263  python3 predict_bin.py 
+  264  python3 predict_bin.py 
+  265  python3 predict_bin.py 
+  266  python3 predict_bin.py 
+  267  python3 predict_bin.py 
+  268  python3 predict_bin.py 
+  269  python3 predict_bin.py 
+  270  python3 predict_bin.py 
+  271  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  272  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  273  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  274  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  275  python3 predict_bin.py 
+  276  python predict_bin.py 
+  277  python3 predict_bin.py 
+  278  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  279  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  280  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  281  scp emaksimychev@10.90.136.163:~/winter_track/common/my_bin.jpg /home/evgenii/winter_track
+  282  ssh emaksimychev@10.90.136.163
+  283  ssh emaksimychev@10.90.136.163
+  284  roscore
+  285  cd src/bin_segmentation/scripts/
+  286  python3 predict_bin.py 
+  287  python predict_bin.py 
+  288  cd catkin_ws/
+  289  source devel/setup.bash 
+  290  cd .ros/
+  291  ls
+  292  las rosdep/
+  293  ls rosdep/
+  294  ls rosmake/
+  295  python t.py hello
+  296  python t.py -hello
+  297  python t.py -hello
+  298  python t.py hello
+  299  python t.py hello/hello
+  300  python
+  301  python3 -version
+  302  python3 --version
+  303  rosrun image_transport republish compressed in:=pylon_camera_node_aca1300/image_raw raw out:=img
+  304  rostopic list
+  305  rostopic list
+  306  rosnode list 
+  307  rostopic list
+  308  rosrun image_transport republish compressed in:=pylon_camera_node_aca1300/image_raw raw out:=img
+  309  rosrun image_transport republish compressed in:=pylon_camera_node_aca1300/image_raw raw out:=img
+  310  roscore
+  311  cd winter_track/bin_segmentation/launch/
+  312  roslaunch bin_segmentation run.launch
+  313  cd ~/catkin_ws/
+  314  catkin build 
+  315  roslaunch bin_segmentation run.launch
+  316  roslaunch bin_segmentation run.launch
+  317  roslaunch bin_segmentation run.launch
+  318  catkin build 
+  319  roslaunch bin_segmentation run.launch
+  320  roslaunch bin_segmentation run.launch
+  321  roslaunch bin_segmentation run.launch
+  322  roslaunch bin_segmentation run.launch
+  323  roslaunch bin_segmentation run.launch
+  324  roslaunch bin_segmentation run.launch
+  325  roslaunch bin_segmentation run.launch
+  326  chmod +x src/bin_segmentation/scripts/predict_bin.py 
+  327  roslaunch bin_segmentation run.launch
+  328  roslaunch bin_segmentation run.launch
+  329  cd src/bin_segmentation/scripts/
+  330  roslaunch bin_segmentation run.launch
+  331  cd ~/catkin_ws/
+  332  cd ~/catkin_ws/
+  333  roslaunch bin_segmentation run.launch
+  334  roslaunch bin_segmentation run.launch
+  335  roslaunch bin_segmentation run.launch
+  336  cd src/bin_segmentation/scripts/
+  337  roslaunch bin_segmentation run.launch
+  338  roslaunch bin_segmentation run.launch
+  339  roslaunch bin_segmentation run.launch
+  340  roslaunch bin_segmentation run.launch
+  341  roslaunch bin_segmentation run.launch
+  342  cd ~/catkin_ws/
+  343  catkin build 
+  344  roslaunch bin_segmentation run.launch
+  345  roslaunch bin_segmentation run.launch
+  346  roslaunch bin_segmentation run.launch
+  347  roslaunch bin_segmentation run.launch
+  348  roslaunch bin_segmentation run.launch
+  349  roslaunch bin_segmentation run.launch
+  350  roslaunch bin_segmentation run.launch
+  351  roslaunch bin_segmentation run.launch
+  352  roslaunch bin_segmentation run.launch
+  353  catkin build 
+  354  roslaunch bin_segmentation run.launch
+  355  cd src/bin_segmentation/scripts/
+  356  python predict_bin.py /home/evgenii/catkin_ws/src/bin_segmentation/scripts/
+  357  python predict_bin.py /home/evgenii/catkin_ws/src/bin_segmentation/scripts/
+  358  cd ~/catkin_ws/
+  359  python predict_bin.py /home/evgenii/catkin_ws/src/bin_segmentation/scripts/
+  360  roslaunch bin_segmentation run.launch
+  361  roslaunch bin_segmentation run.launch
+  362  rostopic lst
+  363  rostopic list
+  364  roscore
+  365  rosrun rqt_image_view rqt_image_view 
+  366  rosrun rqt_image_view rqt_image_view 
+  367  rosrun rqt_image_view rqt_image_view 
+  368  cd 
+  369  cd Documents/Terrain_classification/dataset
+  370  rosbag play -s 100 hills.bag 
+  371  rosbag play -s 100 hills.bag 
+  372  rosbag play -s 100 hills.bag 
+  373  rostopic list
+  374  roscore
+  375  cd Documents/Terrain_classification/dataset
+  376  rosbag play -s hills.bag 
+  377  rosbag play -s 100 hills.bag 
+  378  rosbag play -s 100 hills.bag 
+  379  roslaunch bin_segmentation run.launch
+  380  roslaunch bin_segmentation run.launch
+  381  rosrun rqt_image_view rqt_image_view 
+  382  cd winter_track
+  383  ls
+  384  python3
+  385  cd winter_track
+  386  python3
+  387  python3
+  388  ls
+  389  python
+  390  ls
+  391  python
+  392  cd Documents/Terrain_classification/dataset
+  393  rosbag play s -200 campus.bag 
+  394  rosbag play -s 200 campus.bag 
+  395  rosbag play -s 400 campus.bag 
+  396  rosbag play -s 400 campus.bag 
+  397  rosbag play -s 400 campus.bag 
+  398  rosbag play -s 410 campus.bag 
+  399  rosbag play -s 410 campus.bag 
+  400  rosbag play -s 410 campus.bag 
+  401  rosbag play -s 410 campus.bag 
+  402  rosbag play -s 410 campus.bag 
+  403  rosbag play -s 410 campus.bag 
+  404  rosbag play -s 410 campus.bag 
+  405  rosbag play -s 410 campus.bag 
+  406  rosbag play -s 410 campus.bag 
+  407  rosbag play -s 410 campus.bag 
+  408  rosbag play -s 410 campus.bag 
+  409  rosbag play -s 410 campus.bag 
+  410  rosbag play -s 410 campus.bag 
+  411  rosbag play -s 410 campus.bag 
+  412  rosbag play -s 410 campus.bag 
+  413  rosbag play -s 410 campus.bag 
+  414  rosbag play -s 410 campus.bag 
+  415  rosbag play -s 410 campus.bag 
+  416  rosbag play -s 410 campus.bag 
+  417  rosbag play -s 410 campus.bag 
+  418  rosbag play -s 410 campus.bag 
+  419  rosbag play -s 410 campus.bag 
+  420  rosbag play -s 410 campus.bag 
+  421  rosbag play -s 410 campus.bag 
+  422  rosbag play -s 410 campus.bag 
+  423  rosbag play -s 410 campus.bag 
+  424  rosbag play -s 410 campus.bag 
+  425  rosbag play -s 410 campus.bag 
+  426  rosbag play -s 410 campus.bag 
+  427  roslaunch bin_segmentation run.launch
+  428  roslaunch bin_segmentation run.launch
+  429  roslaunch bin_segmentation run.launch
+  430  roslaunch bin_segmentation run.launch
+  431  roslaunch bin_segmentation run.launch
+  432  roslaunch bin_segmentation run.launch
+  433  roslaunch bin_segmentation run.launch
+  434  roslaunch bin_segmentation run.launch
+  435  roslaunch bin_segmentation run.launch
+  436  roslaunch bin_segmentation run.launch
+  437  roslaunch bin_segmentation run.launch
+  438  roslaunch bin_segmentation run.launch
+  439  roslaunch bin_segmentation run.launch
+  440  roslaunch bin_segmentation run.launch
+  441  roslaunch bin_segmentation run.launch
+  442  roslaunch bin_segmentation run.launch
+  443  roslaunch bin_segmentation run.launch
+  444  roslaunch bin_segmentation run.launch
+  445  roslaunch bin_segmentation run.launch
+  446  roslaunch bin_segmentation run.launch
+  447  roslaunch bin_segmentation run.launch
+  448  roslaunch bin_segmentation run.launch
+  449  roslaunch bin_segmentation run.launch 1
+  450  roslaunch bin_segmentation run.launch -1
+  451  roslaunch bin_segmentation run.launch --1
+  452  roslaunch bin_segmentation run.launch to_save:=1
+  453  roslaunch bin_segmentation run.launch to_save:=1
+  454  roslaunch bin_segmentation run.launch to_save:=1
+  455  roslaunch bin_segmentation run.launch to_save:=1
+  456  roslaunch bin_segmentation run.launch to_save:=1
+  457  roslaunch bin_segmentation run.launch to_save:=1
+  458  roslaunch bin_segmentation run.launch 
+  459  roslaunch bin_segmentation run.launch 
+  460  roslaunch bin_segmentation run.launch 
+  461  roslaunch bin_segmentation run.launch 
+  462  roslaunch bin_segmentation run.launch to_save:=1
+  463  roslaunch bin_segmentation run.launch to_save:=1
+  464  roslaunch bin_segmentation run.launch to_save:=1
+  465  roslaunch bin_segmentation run.launch to_save:=1
+  466  roslaunch bin_segmentation run.launch to_save:=0
+  467  roslaunch bin_segmentation run.launch to_save:=1
+  468  roslaunch bin_segmentation run.launch to_save:=1
+  469  roslaunch bin_segmentation run.launch to_save:=1
+  470  roslaunch bin_segmentation run.launch to_save:=1
+  471  roslaunch bin_segmentation run.launch to_save:=1
+  472  roslaunch bin_segmentation run.launch to_save:=1
+  473  roslaunch bin_segmentation run.launch to1
+  474  roslaunch bin_segmentation run.launch to_save:=1
+  475  roslaunch bin_segmentation run.launch --1
+  476  roslaunch bin_segmentation run.launch -1
+  477  roslaunch bin_segmentation run.launch arg:=1
+  478  roslaunch bin_segmentation run.launch to_save:=1
+  479  roslaunch bin_segmentation run.launch to_save:=1
+  480  roslaunch bin_segmentation run.launch to_save:=1
+  481  roslaunch bin_segmentation run.launch to_save:=1
+  482  roslaunch bin_segmentation run.launch to_save:=0
+  483  roslaunch bin_segmentation run.launch to_save:=0
+  484  roslaunch bin_segmentation run.launch to_save:=1
+  485  rosrun rqt_image_view rqt_image_view 
+  486  rosrun rqt_image_view rqt_image_view 
+  487  rosrun rqt_image_view rqt_image_view 
+  488  rosrun rqt_image_view rqt_image_view 
+  489  rosrun rqt_image_view rqt_image_view 
+  490  rosrun rqt_image_view rqt_image_view 
+  491  rosrun rqt_image_view rqt_image_view 
+  492  rosrun rqt_image_view rqt_image_view 
+  493  sudo apt-get install playonlinux
+  494  sudo apt-get install playonlinux
+  495  sudo apt-get update
+  496  sudo apt-get install playonlinux
+  497  docker
+  498  docker --rm -it -v /home/evgenii/:/tmp gcc bash
+  499  docker run --rm -it -v /home/evgenii/:/tmp gcc bash
+  500  sudo docker run --rm -it -v /home/evgenii/:/tmp gcc bash
+  501  mkdir OSI
+  502  cd OSI/
+  503  mkdir week1
+  504  cd week1/
+  505  ls > /usr/bin
+  506  ls /usr/bin > ex1.txt
+  507  cat ex1.txt 
+  508  rm ex1.txt 
+  509  ls
+  510  ls /usr/bin | grep gcc > ex1.txt
+  511  cat ex1.txt 
+  512  history > ex2.txt
