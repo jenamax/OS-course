@@ -1,0 +1,4 @@
+virtual address is a memory address which have a page in virtual memory
+physical address is a memory address which have a page in physical memory
+
+each virtual address mapped into a particular physical address
