@@ -1,0 +1,15 @@
+$ chmod -x _ex3.txt 
+$ ls -l _ex3.txt
+-rw-rw-r-- 1 evgenii evgenii 0 окт 24 12:56 _ex3.txt
+$ chmod u=rwx _ex3.txt
+-rwxrw-r-- 1 evgenii evgenii 0 окт 24 12:56 _ex3.txt
+$ chmod o=rwx _ex3.txt 
+$ ls -l _ex3.txt 
+-rwxrw-rwx 1 evgenii evgenii 0 окт 24 12:56 _ex3.txt
+$ chmod g=u _ex3.txt 
+$ ls -l _ex3.txt 
+-rwxrwxrwx 1 evgenii evgenii 0 окт 24 12:56 _ex3.txt
+
+chmod 660 is equivalen to assign rw rights to user and group
+chmod 775 is equivalen to assign rwx rights to user and group and rx rights to owner
+chmod 777 is equivalen to assign rwx rights to everybody

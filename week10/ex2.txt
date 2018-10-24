@@ -1,0 +1,7 @@
+find -inum 136082 #command
+./_ex2.txt # output
+
+find -inum 136082 -exec rm {} \  #command
+
+find -inum 136082 #command
+# output
