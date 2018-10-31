@@ -1,0 +1,2 @@
+since in the second program we made new line after "Hello" so data was written and removed from a buffer and the forked process printed only '\n'; 
+in the first program forked process printed "Hello" (which was on the buffer) and "\n" because data wasn't removed from the buffer before fork
